@@ -10,7 +10,7 @@ This project is developed during an [IoT workshop](http://devfest.ieee.tn/) and 
  
 ## Ecosystem
  * Arm® Mbed™ IoT Device Platform : [mbed online IDE](https://os.mbed.com/compiler/)
- * Programming language : C++
+ * Programming language : C/C++
  * Required libraries : MQTT, MBED, X_NUCLEO_IDW01M1v2, NetworkSocketAPI
  * [IBM Watson IoT Platform (Quickstart)](https://quickstart.internetofthings.ibmcloud.com/#/) to view live sensor data 
  
